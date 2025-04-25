@@ -3,8 +3,8 @@
   * By attending and speaking at our events, you are agreeing to follow the Techlahoma [Code of Conduct](https://www.techlahoma.org/code-of-conduct). Please read it before you speak.
   * Bring your laptop for the presentation. 
   * Arrive a few minutes early to connect your laptop and run through your slides/code.
-  * Wifi will usually be available. However, it would also be good to have a backup plan in case you have trouble connecting or none is available. If presenting at Starspace46, the `Starspace 46 guest` wi-fi password is `Techlahoma`
-  * Make sure that you will be able to connect your laptop to the HDMI. If you need an adapter, please bring it or check with the user group leader or an A/V volunteer that one will be available. Don’t wait until your talk has started to do this!
+  * Wifi will usually be available, but it would also be good to have a backup plan in case you have trouble connecting or none is available.
+  * Make sure that you will be able to connect your laptop to the HDMI. If you need an adapter, please bring it or check with the user group leader or an A/V volunteer that one will be available ahead of time. Don’t wait until your talk has started to do this!
   * Verify that your **name, talk title, and a short summary** of your talk are listed correctly on the Meetup page for the event (even for lightning talks!).
   * Let the A/V volunteer know if you don’t want your presentation to be streamed or recorded. (These are completely optional!)
   * Let the A/V volunteer know whether the presentation contains audio/video, so that can be tested before your talk starts. 
@@ -18,9 +18,9 @@
   * Leave enough time at the end of your presentation for questions.
 
 * After your talk:
-  * If your talk was streamed, the broadcast will be available on [Twitch](https://www.twitch.tv/techlahoma/videos?filter=archives&sort=time) for 60 days. A Techlahoma volunteer will save the video as a [highlight](https://www.twitch.tv/techlahoma/videos?filter=highlights&sort=time) and export it to [YouTube](https://youtube.com/techlahoma). Please let an A/V volunteer know if you have any additions or corrections to make to the video descriptions, or if you don't want the video on Twitch or YouTube.
-  * Consider adding your topic and/or bio to the Techlahoma [speaker list](https://github.com/techlahoma/user-groups/blob/master/SPEAKERS-AND-TOPICS.md)
-  * Check the [Speakers Wanted Board](https://speakers-wanted.techlahoma.org/) for more opportunities to speak!
+  * If your talk was streamed, the broadcast will be available on [Twitch](https://www.twitch.tv/techlahoma/videos?filter=archives&sort=time) for a short time. A Techlahoma volunteer will save the video as a [highlight](https://www.twitch.tv/techlahoma/videos?filter=highlights&sort=time) and export it to [YouTube](https://youtube.com/techlahoma). Please let an A/V volunteer know if you have any additions or corrections to make to the video descriptions, or if you don't want the video on Twitch or YouTube.
+  * Consider adding your topic and/or bio to the Techlahoma [speaker list]([https://github.com/techlahoma/user-groups/blob/master/SPEAKERS-AND-TOPICS.md](https://airtable.com/appkHTGypMpFOxgc1/shryXrqxkz8uQp8mX))
+  * Check the [#speakers]([https://speakers-wanted.techlahoma.org/](https://techlahoma.slack.com/archives/C5TCWH5SQ)) channel in Slack for more opportunities to speak!
 
 # Tips for Slides/Code
   * Dark themes are best for live coding.
