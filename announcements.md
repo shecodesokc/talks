@@ -34,6 +34,7 @@ Slack: **@mods** or **#ask-a-mod**
 ### Techlahoma Member of the Month
 
 ![Tabby](https://www.techlahoma.org/wp-content/uploads/2025/03/Member-of-the-Month_-_March-2025_-_Tabby-Douglass.jpg)
+March: Tabby
 
 ### Nominations
 [tiny.cc/nominate-a-techlahoman](https://tiny.cc/nominate-a-techlahoman)
@@ -42,20 +43,20 @@ Slack: **@mods** or **#ask-a-mod**
 * Today's Speakers
 
 ### YouTube Playlist
-* SheCodesOKC has a [playlist](https://www.youtube.com/playlist?list=PLdW0ayjzW_LCTxJGdEZ63341aTLDGJAbb) on YouTube
+* SheCodesOKC has a [playlist](https://www.youtube.com/playlist?list=PLdW0ayjzW_LCTxJGdEZ63341aTLDGJAbb) on Techlahoma's channel
 * Likes and thoughtful comments welcome!
 * Please play videos to the end
 
 ### Upcoming Events
 
 ### Aerial Sampler
-* Ask Patricia for details
+Ask Patricia for details
 
 ![Tea_and_Code](https://secure.meetupstatic.com/photos/event/5/7/c/d/600_527422477.webp?w=384)
 Hosted by Patricia and Kyler
 
 ### June
-* Lightning talks again?!
+Lightning talks again?!
 
 ### July (Tentative)
 * Creative Programming: Embroidery/Vinyl
@@ -63,15 +64,15 @@ Hosted by Patricia and Kyler
 * Hosted by Patricia
 
 ### August (Tentative)
-* SheCodesOKC x Coffee and Code x OU AI/ML Club x Apricot
+* SheCodesOKC • Coffee and Code • OU AI/ML Club • Apricot
 * Tentative: The Verge, 5th Floor
 * Speakers: Nichole Turnage, Hannah Officer, Amanda Turk
 
 ### September (Tentative)
 * Blanchard Leadership Style
-* Location: Tinker Business Park
+* Tinker Business Park
 
 ### October
-* HacktobHERfest
+HacktobHERfest
 
 Now for our talks! 🎉
