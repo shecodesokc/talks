@@ -33,8 +33,8 @@ Slack: **@mods** or **#ask-a-mod**
 
 ### Techlahoma Member of the Month
 
+### March: Tabby
 ![Tabby](https://www.techlahoma.org/wp-content/uploads/2025/03/Member-of-the-Month_-_March-2025_-_Tabby-Douglass.jpg)
-March: Tabby
 
 ### Nominations
 [tiny.cc/nominate-a-techlahoman](https://tiny.cc/nominate-a-techlahoman)
