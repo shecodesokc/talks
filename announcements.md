@@ -55,7 +55,8 @@ Ask Patricia for details
 Lightning talks again?!
 
 ![Tea_and_Code](https://secure.meetupstatic.com/photos/event/5/7/c/d/600_527422477.webp?w=384)
-Hosted by Patricia and Kyler
+* Hosted by Patricia and Kyler
+* RSVP at [meetup.com/okccoffeeandcode](https://www.meetup.com/okccoffeeandcode/)
 
 ### July (Tentative)
 * Creative Programming: Embroidery/Vinyl
