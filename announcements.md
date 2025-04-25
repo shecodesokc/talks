@@ -1,10 +1,11 @@
 ![SheCodesOKC Logo](https://personal-k8s-main-space.nyc3.digitaloceanspaces.com/simpleslides.dev/user-uploads/40/01HSMEQDP64ABGZHRHE3FY86BS.png)
 
 ## Lightning Talks ⚡
-* Crystal Schmidt
-* Emerald Stocco
-* Katherine Ferrell
-* Natasha Martin
+* Angee Noel
+* Bekah Beets
+* Leslie Merritt
+* Lida Tohidi
+* Melissa Talkington
 
 Sponsors
 
@@ -14,56 +15,63 @@ Sponsors
 
 ![Clevyr](https://personal-k8s-main-space.nyc3.digitaloceanspaces.com/simpleslides.dev/user-uploads/36/01HSME9XYP9DPZE96G9EQA2146.png)
 
-
-### Code of Conduct
-
-If you have an <span style="color: red;">**issue**</span> with someone's behavior at a Techlahoma Foundation event, **please let us know**.  
-
-[techlahoma.org/conduct](https://techlahoma.org/conduct)
-
-Slack: **@mods** or **#ask-a-mod**
-
 ### Chat in Slack!
-
 Join at [slack.techlahoma.org](https://slack.techlahoma.org)
 
 **#shecodesokc** (ask for invite)
+- @Hannah
 - @KimberlyCollins
-- @Hannah 
 - @Layla Krauss
 - @Shanda
 
+### Code of Conduct
+[techlahoma.org/conduct](https://techlahoma.org/conduct)
+
+If you have an <span style="color: red;">**issue**</span> with someone's behavior at a Techlahoma Foundation event, **please let us know**.  
+
+Slack: **@mods** or **#ask-a-mod**
+
 ### Techlahoma Member of the Month
 
-![Chelsea](https://www.techlahoma.org/wp-content/uploads/2025/02/Member-of-the-Month_-_February-2025_-_Chelsea-Haldane.jpg)
+![Tabby](https://www.techlahoma.org/wp-content/uploads/2025/03/Member-of-the-Month_-_March-2025_-_Tabby-Douglass.jpg)
 
 ### Nominations
+[tiny.cc/nominate-a-techlahoman](https://tiny.cc/nominate-a-techlahoman)
+* Crystal Schmidt
+* Floyd May
+* Today's Speakers
 
-[https://tiny.cc/nominate-a-techlahoman](https://tiny.cc/nominate-a-techlahoman)
+### YouTube Playlist
+* SheCodesOKC has a [playlist](https://www.youtube.com/playlist?list=PLdW0ayjzW_LCTxJGdEZ63341aTLDGJAbb) on YouTube
+* Likes and thoughtful comments welcome!
+* Please play videos to the end
 
 ### Upcoming Events
 
-**[Innovation Hall Social](https://www.meetup.com/shecodesokc/events/306402305/?eventOrigin=group_events_list)**
-* Multi-user group - SheCodesOKC, OKC WebDevs, Pythonistas, OKC Coffee and Code
-* Thursday, March 20
-* @ Innovation Hall
-* 4 - 6 PM
+### Aerial Sampler
+* Ask Patricia for details
 
-**[Techlahoma Bson Bash](https://events.humanitix.com/json-bson-bash?c=website)**
-* Saturday, April 5
-* @ Flashback Retropub
-* 6:30 - 9:30 PM
-* [Tickets for sale](https://events.humanitix.com/json-bson-bash?c=website) 🎟
+![Tea_and_Code](https://secure.meetupstatic.com/photos/event/5/7/c/d/600_527422477.webp?w=384)
+Hosted by Patricia and Kyler
 
-**[Lightning Talks ⚡](https://www.meetup.com/okcwebdevs/events/306399525/?eventOrigin=network_page)**
-* OKC WebDevs
-* Tuesday, April 15
-* @ Clevyr
-* 11:30 AM - 12:30 PM
+### June
+* Lightning talks again?!
 
-**[Techlahoma Networking Fair](https://www.meetup.com/oklahoma-city-techlahoma/events/306440006/?eventOrigin=network_page)**
-* Thursday, April 24
-* @ Oklahoma Center for Nonprofits
-* 6 - 8 PM
+### July (Tentative)
+* Creative Programming: Embroidery/Vinyl
+* Pioneer Library System - Library Lab: A Pop-Up Community Place
+* Hosted by Patricia
+
+### August (Tentative)
+* SheCodesOKC x Coffee and Code x OU AI/ML Club x Apricot
+* Tentative: The Verge, 5th Floor
+* Speakers: Nichole Turnage, Hannah Officer, Amanda Turk
+
+### September (Tentative)
+* Blanchard Leadership Style
+* Location: Tinker Business Park
+
+### October
+* HacktobHERfest
 
 Now for our talks! 🎉
