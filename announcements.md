@@ -33,7 +33,6 @@ Slack: **@mods** or **#ask-a-mod**
 
 ### Techlahoma Member of the Month
 
-### March: Tabby
 ![Tabby](https://www.techlahoma.org/wp-content/uploads/2025/03/Member-of-the-Month_-_March-2025_-_Tabby-Douglass.jpg)
 
 ### Nominations
@@ -52,11 +51,11 @@ Slack: **@mods** or **#ask-a-mod**
 ### Aerial Sampler
 Ask Patricia for details
 
-![Tea_and_Code](https://secure.meetupstatic.com/photos/event/5/7/c/d/600_527422477.webp?w=384)
-Hosted by Patricia and Kyler
-
 ### June
 Lightning talks again?!
+
+![Tea_and_Code](https://secure.meetupstatic.com/photos/event/5/7/c/d/600_527422477.webp?w=384)
+Hosted by Patricia and Kyler
 
 ### July (Tentative)
 * Creative Programming: Embroidery/Vinyl
