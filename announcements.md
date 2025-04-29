@@ -1,10 +1,10 @@
 ![SheCodesOKC Logo](https://personal-k8s-main-space.nyc3.digitaloceanspaces.com/simpleslides.dev/user-uploads/40/01HSMEQDP64ABGZHRHE3FY86BS.png)
 
 ## Lightning Talks ⚡
+* Lida Tohidi
 * Angee Noel
 * Bekah Beets
 * Leslie Merritt
-* Lida Tohidi
 * Melissa Talkington
 
 Sponsors
@@ -13,7 +13,7 @@ Sponsors
 
 ![Canyon Trail Logo](https://personal-k8s-main-space.nyc3.digitaloceanspaces.com/simpleslides.dev/user-uploads/39/01HSMEJ54758WV0XX7TVZ42Z48.png)
 
-![Clevyr](https://personal-k8s-main-space.nyc3.digitaloceanspaces.com/simpleslides.dev/user-uploads/36/01HSME9XYP9DPZE96G9EQA2146.png)
+![Tailwind](https://cdn.prod.website-files.com/673501bc349166967a198ede/673523c73c642067d30f3146_3-Logo-Color.svg)
 
 ### Chat in Slack!
 Join at [slack.techlahoma.org](https://slack.techlahoma.org)
