@@ -37,8 +37,9 @@ Slack: **@mods** or **#ask-a-mod**
 
 ### Nominations
 [tiny.cc/nominate-a-techlahoman](https://tiny.cc/nominate-a-techlahoman)
-* Crystal Schmidt
-* Floyd May
+* Brittany Pizarro - volunteer
+* Crystal Schmidt - speaker
+* Floyd May - sponsor
 * Today's Speakers
 
 ### YouTube Playlist
