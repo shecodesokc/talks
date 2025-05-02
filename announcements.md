@@ -2,10 +2,10 @@
 
 ## Lightning Talks ⚡
 * Lida Tohidi
-* Angee Noel
 * Bekah Beets
 * Leslie Merritt
 * Melissa Talkington
+* Angee Noel
 
 Sponsors
 
