@@ -33,6 +33,7 @@ Slack: **@mods** or **#ask-a-mod**
 ### Nominations
 [tiny.cc/nominate-a-techlahoman](https://tiny.cc/nominate-a-techlahoman)
 * Brittany Pizarro - volunteer
+* Philip Karanja - volunteer
 * Crystal Schmidt - speaker
 * Floyd May - sponsor
 * Today's Speakers
