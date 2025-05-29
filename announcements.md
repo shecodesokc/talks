@@ -44,17 +44,17 @@ Slack: **@mods** or **#ask-a-mod**
 
 ### Upcoming Events
 
-### July (Tentative)
+### July
 * Creative Programming: Embroidery/Vinyl
 * Pioneer Library System - Library Lab: A Pop-Up Community Place
 * Hosted by Patricia
 
-### August (Tentative)
+### August
 * Blanchard Leadership Style
 * Tinker Business Park
 
-### September (Tentative)
-* SheCodesOKC • Coffee and Code • OU AI/ML Club • Apricot
+### September
+* SheCodesOKC • Oklahom.AI • OU AI/ML Club • Apricot
 * Tentative: The Verge, 5th Floor
 * Speakers: Nichole Turnage, Hannah Officer, Amanda Turk
 
