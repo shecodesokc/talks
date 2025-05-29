@@ -18,10 +18,10 @@ Sponsors
 Join at [slack.techlahoma.org](https://slack.techlahoma.org)
 
 **#shecodesokc** (ask for invite)
-- @Hannah
-- @KimberlyCollins
-- @Layla Krauss
-- @Shanda
+- Hannah Campbell
+- Layla Krauss
+- Patricia Salas
+- Shanda Biggs
 
 ### Code of Conduct
 [techlahoma.org/conduct](https://techlahoma.org/conduct)
