@@ -50,13 +50,13 @@ Slack: **@mods** or **#ask-a-mod**
 * Hosted by Patricia
 
 ### August (Tentative)
+* Blanchard Leadership Style
+* Tinker Business Park
+
+### September (Tentative)
 * SheCodesOKC • Coffee and Code • OU AI/ML Club • Apricot
 * Tentative: The Verge, 5th Floor
 * Speakers: Nichole Turnage, Hannah Officer, Amanda Turk
-
-### September (Tentative)
-* Blanchard Leadership Style
-* Tinker Business Park
 
 ### October
 HacktobHERfest
