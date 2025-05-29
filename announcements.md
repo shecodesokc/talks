@@ -1,11 +1,10 @@
 ![SheCodesOKC Logo](https://personal-k8s-main-space.nyc3.digitaloceanspaces.com/simpleslides.dev/user-uploads/40/01HSMEQDP64ABGZHRHE3FY86BS.png)
 
 ## Lightning Talks ⚡
-* Lida Tohidi
-* Bekah Beets
-* Leslie Merritt
-* Melissa Talkington
-* Angee Noel
+* Alex Stringer
+* Lyssa Prince
+* Megan Allen
+* Molly Cariker
 
 Sponsors
 
@@ -31,10 +30,6 @@ If you have an <span style="color: red;">**issue**</span> with someone's behavio
 
 Slack: **@mods** or **#ask-a-mod**
 
-### Techlahoma Member of the Month
-
-![Tabby](https://www.techlahoma.org/wp-content/uploads/2025/03/Member-of-the-Month_-_March-2025_-_Tabby-Douglass.jpg)
-
 ### Nominations
 [tiny.cc/nominate-a-techlahoman](https://tiny.cc/nominate-a-techlahoman)
 * Brittany Pizarro - volunteer
@@ -48,17 +43,6 @@ Slack: **@mods** or **#ask-a-mod**
 * Please play videos to the end
 
 ### Upcoming Events
-
-### Aerial Sampler
-Ask Patricia for details
-
-### June
-Lightning talks again?!
-
-![Tea_and_Code](https://secure.meetupstatic.com/photos/event/5/7/c/d/600_527422477.webp?w=384)
-* Hosted by Patricia and Kyler
-* Space is limited
-* RSVP at [meetup.com/okccoffeeandcode](https://www.meetup.com/okccoffeeandcode/)
 
 ### July (Tentative)
 * Creative Programming: Embroidery/Vinyl
