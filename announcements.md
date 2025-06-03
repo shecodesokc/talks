@@ -2,9 +2,8 @@
 
 ## Lightning Talks ⚡
 * Alex Stringer
-* Lyssa Prince
 * Megan Allen
-* Molly Cariker
+* Lyssa Prince
 
 Sponsors
 
