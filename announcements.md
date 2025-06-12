@@ -37,6 +37,13 @@ Slack: **@mods** or **#ask-a-mod**
 * Floyd May - sponsor
 * Today's Speakers
 
+### Members Looking for Work
+* Accessibility 
+* Marketing Strategy
+* .NET
+* UI Testing
+* UX/UI Design
+
 ### YouTube Playlist
 * SheCodesOKC has a [playlist](https://www.youtube.com/playlist?list=PLdW0ayjzW_LCTxJGdEZ63341aTLDGJAbb) on Techlahoma's channel
 * Likes and thoughtful comments welcome!
