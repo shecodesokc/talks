@@ -53,11 +53,11 @@ Slack: **@mods** or **#ask-a-mod**
 
 ### Upcoming Events
 
-### July 18-20 Oklathon
-* Friday, July 18th: 5:30 PM - 9:00 PM *Kick off*
-* Saturday, July 19th: 8:00 AM - 6:00 PM *The main event*
-* Sunday, July 20th: 9:00 AM - 3:00 PM *Optional wrap up*
-* Sign up at techlahoma.github.io/oklathon](https://techlahoma.github.io/oklathon/)
+### July 18-20 #Oklathon
+* Fri 7/18: 5:30 PM - 9:00 PM **Kick off**
+* Sat 7/19: 8:00 AM - 6:00 PM **The main event**
+* Sun 7/20: 9:00 AM - 3:00 PM **Optional wrap up**
+* Sign up at [techlahoma.github.io/oklathon](https://techlahoma.github.io/oklathon/)
 
 ### August
 * Creative Programming: Embroidery/Vinyl
