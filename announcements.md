@@ -31,7 +31,7 @@ If you have an <span style="color: red;">**issue**</span> with someone's behavio
 
 Slack: **@mods** or **#ask-a-mod**
 
-### Nominations
+### Member of the Month Nominations
 [tiny.cc/nominate-a-techlahoman](https://tiny.cc/nominate-a-techlahoman)
 * Brittany Pizarro - volunteer
 * Philip Karanja - volunteer
@@ -54,9 +54,11 @@ Slack: **@mods** or **#ask-a-mod**
 ### Upcoming Events
 
 ### July 18-20 #Oklathon
-* Fri 7/18: 5:30 PM - 9:00 PM **Kick off**
-* Sat 7/19: 8:00 AM - 6:00 PM **The main event**
-* Sun 7/20: 9:00 AM - 3:00 PM **Optional wrap up**
+```
+Fri 7/18: 5:30 pm - 9:00 pm Kick off
+Sat 7/19: 8:00 am - 6:00 pm The main event
+Sun 7/20: 9:00 am - 3:00 pm Wrap up
+```
 * Sign up at [techlahoma.github.io/oklathon](https://techlahoma.github.io/oklathon/)
 
 ### August
