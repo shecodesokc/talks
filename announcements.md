@@ -61,6 +61,9 @@ Sun 7/20: 9:00 am - 3:00 pm Wrap up
 ```
 * Sign up at [techlahoma.github.io/oklathon](https://techlahoma.github.io/oklathon/)
 
+### July 29 Cupcake Social at Kamp's on 10th St
+![image](https://github.com/user-attachments/assets/76ebce5b-3d06-42e9-b72a-1791d2547dde)
+
 ### August
 * Creative Programming: Embroidery/Vinyl
 * Pioneer Library System - Library Lab: A Pop-Up Community Place
