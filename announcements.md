@@ -3,7 +3,7 @@
 ### Today's Panelists:
 * Nichole Turnage
 * Hannah Officer
-* Amanda Turk
+* Cassie Koelsch
 
 Sponsors
 
