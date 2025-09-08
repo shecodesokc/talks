@@ -13,6 +13,8 @@ Sponsors
 
 <!-- ![Tailwind](https://cdn.prod.website-files.com/673501bc349166967a198ede/673523c73c642067d30f3146_3-Logo-Color.svg)-->
 
+![Apricot](https://personal-k8s-main-space.nyc3.digitaloceanspaces.com/simpleslides.dev/user-uploads/185/01K4NBQH5DY94N28VWFR1VTGN8.png)
+
 ### Chat in Slack!
 Join at [slack.techlahoma.org](https://slack.techlahoma.org)
 
