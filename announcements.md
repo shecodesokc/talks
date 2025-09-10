@@ -50,6 +50,11 @@ Slack: **@mods** or **#ask-a-mod**
 * Likes and thoughtful comments welcome!
 * Please play videos to the end
 
+### Oklahoma AI
+* Meetup on last Thursday of every month
+* Looking for speakers/volunteers
+* [meetup.com/oklahom_ai](https://www.meetup.com/oklahom_ai)
+
 ### October
 HacktobHERfest
 
