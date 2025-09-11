@@ -53,3 +53,36 @@ How do you see the role of software engineers evolving? Will they primarily be �
 \# 13
 
 What advice would you give to students and early-career developers who want to make a meaningful impact with AI?
+
+\# 14  
+How has Apricot AI tangibly changed the daily workflow for home health nurses, and what feedback have you received from those on the front lines? *(Apricot)*  
+
+\# 15  
+How do you see AI/ML shaping the future of personalized experiences within platforms like YouVersion, where content delivery has to balance global reach with individual relevance? *(YouVersion)*  
+
+\# 16  
+OASIS documentation is notoriously complex — how does the use of AI ensure compliance while also reducing errors? *(Apricot)*  
+
+\# 17  
+What opportunities or challenges arise when integrating AI/ML models into API-driven systems that must serve millions of requests reliably? *(YouVersion)*  
+
+\# 18  
+By freeing up nurses’ time, how do you see this technology directly improving the quality of care patients receive? *(Apricot)*  
+
+\# 19  
+Faith-based and community platforms handle highly sensitive content. How do you think about preventing bias or misuse when applying AI/ML to such large and diverse datasets? *(YouVersion)*  
+
+\# 20  
+What has been the biggest barrier in getting healthcare organizations to adopt AI-driven documentation, and how have you addressed that? *(Apricot)*  
+
+\# 21  
+If you could experiment with one AI/ML application in YouVersion tomorrow — whether for content discovery, translation, or engagement — what would it be, and why? *(YouVersion)*  
+
+\# 22  
+Beyond OASIS, what areas of innovation or expansion do you see next for Apricot AI? *(Apricot)*  
+
+\# 23  
+What advice would you give to students and early-career developers who want to make a meaningful impact with AI? *(Apricot / YouVersion)*  
+
+\# 24  
+What excites you most about where AI will be in your field in the next 3–5 years? 
