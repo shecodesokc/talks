@@ -55,7 +55,6 @@ Slack: **@mods** or **#ask-a-mod**
 * Looking for speakers/volunteers
 * [meetup.com/oklahom_ai](https://www.meetup.com/oklahom_ai)
 
-### October
-HacktobHERfest
+![hacktobherfest-2025](https://personal-k8s-main-space.nyc3.digitaloceanspaces.com/simpleslides.dev/user-uploads/186/01K4Y16ME9SQSYVEY5K3YQ0GAT.png)
 
 Now for our panel! 🎉
