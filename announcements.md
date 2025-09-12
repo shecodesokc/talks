@@ -41,7 +41,8 @@ Slack: **@mods** or **#ask-a-mod**
 * .NET app support
 * Accessibility/usability
 * Cloud/DevOps/platform engineering
-* Frontend/full-stack development
+* Front-end/full-stack development
+* Program/product/project management
 * Software QA
 * Technical writing
 
