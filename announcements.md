@@ -1,17 +1,10 @@
 ![SheCodesOKC Logo](https://personal-k8s-main-space.nyc3.digitaloceanspaces.com/simpleslides.dev/user-uploads/40/01HSMEQDP64ABGZHRHE3FY86BS.png)
 
-### Today's Panelists:
-* Nichole Turnage
-* Hannah Officer
-* Cassie Koelsch
-
 Sponsors
 
 ![Techlahoma Logo](https://personal-k8s-main-space.nyc3.digitaloceanspaces.com/simpleslides.dev/user-uploads/38/01HSMEHB913M3M3NFF1ZQE0KY7.png)
 
 ![Canyon Trail Logo](https://personal-k8s-main-space.nyc3.digitaloceanspaces.com/simpleslides.dev/user-uploads/39/01HSMEJ54758WV0XX7TVZ42Z48.png)
-
-![Apricot](https://personal-k8s-main-space.nyc3.digitaloceanspaces.com/simpleslides.dev/user-uploads/185/01K4NBQH5DY94N28VWFR1VTGN8.png)
 
 ### Chat in Slack!
 Join at [slack.techlahoma.org](https://slack.techlahoma.org)
@@ -32,10 +25,9 @@ Slack: **@mods** or **#ask-a-mod**
 ### Member of the Month Nominations
 [tiny.cc/nominate-a-techlahoman](https://tiny.cc/nominate-a-techlahoman)
 * Philip Karanja - volunteer
-* Crystal Schmidt - speaker
 * Floyd May - sponsor
-* Recent Speakers
-* Today's Panelists
+* Lyssa Prince - speaker
+* Other Recent Speakers
 
 ### Members Looking for Work
 * .NET app support
@@ -51,11 +43,4 @@ Slack: **@mods** or **#ask-a-mod**
 * Likes and thoughtful comments welcome!
 * Please play videos to the end
 
-### Oklahoma AI
-* Meetup on last Thursday of every month
-* Looking for speakers/volunteers
-* [meetup.com/oklahom_ai](https://www.meetup.com/oklahom_ai)
-
-![hacktobherfest-2025](https://personal-k8s-main-space.nyc3.digitaloceanspaces.com/simpleslides.dev/user-uploads/186/01K4Y16ME9SQSYVEY5K3YQ0GAT.png)
-
-Now for our panel! 🎉
+<!--Now for our panel! 🎉-->
