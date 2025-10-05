@@ -6,6 +6,8 @@ Sponsors
 
 ![Canyon Trail Logo](https://personal-k8s-main-space.nyc3.digitaloceanspaces.com/simpleslides.dev/user-uploads/39/01HSMEJ54758WV0XX7TVZ42Z48.png)
 
+![Tailwind](https://cdn.prod.website-files.com/673501bc349166967a198ede/673523c73c642067d30f3146_3-Logo-Color.svg)
+
 ### Chat in Slack!
 Join at [slack.techlahoma.org](https://slack.techlahoma.org)
 
@@ -43,4 +45,4 @@ Slack: **@mods** or **#ask-a-mod**
 * Likes and thoughtful comments welcome!
 * Please play videos to the end
 
-<!--Now for our panel! 🎉-->
+Now for HacktobHERfest! 🎉
