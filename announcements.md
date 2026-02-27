@@ -13,7 +13,6 @@ Sponsors
 - **Elizabeth McHughes** - "Engineering Elasticity: Virtualization in Cloud Computing"
 - **Farai Jordan** - "How to Get a Job When There are No Jobs"
 - **Kimberly Collins** - "Many-to-Many Database Relationships"
-- **Nichole McGrew**
 
 ### Chat in Slack!
 Join at [slack.techlahoma.org](https://slack.techlahoma.org)
@@ -34,13 +33,11 @@ Slack: **@mods** or **#ask-a-mod**
 [tiny.cc/nominate-a-techlahoman](https://tiny.cc/nominate-a-techlahoman)
 
 ### Members Looking for Work
-* .NET app support
-* Accessibility/usability
-* Cloud/DevOps/platform engineering
-* Front-end/full-stack development
-* Program/product/project management
-* Software QA
-* Technical writing
+* .NET / SQL
+* Digital Accessibility
+* Business Analysis
+* Full-stack development
+* Teaching
 
 ### YouTube Playlist
 * SheCodesOKC has a [playlist](https://www.youtube.com/playlist?list=PLdW0ayjzW_LCTxJGdEZ63341aTLDGJAbb) on Techlahoma's channel
