@@ -29,6 +29,8 @@ If you have an <span style="color: red;">**issue**</span> with someone's behavio
 
 Slack: **@mods** or **#ask-a-mod**
 
+![Irine Mann - Techlahoma Member of the Month](https://personal-k8s-main-space.nyc3.digitaloceanspaces.com/simpleslides.dev/user-uploads/215/01M16X7V6YNADJ255Z22KMDVZ6.jpg)
+
 ### Member of the Month Nominations
 [tiny.cc/nominate-a-techlahoman](https://tiny.cc/nominate-a-techlahoman)
 
