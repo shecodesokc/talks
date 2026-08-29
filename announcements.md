@@ -6,13 +6,13 @@ Sponsors
 
 ![Canyon Trail Logo](https://personal-k8s-main-space.nyc3.digitaloceanspaces.com/simpleslides.dev/user-uploads/39/01HSMEJ54758WV0XX7TVZ42Z48.png)
 
-![The Verge](https://personal-k8s-main-space.nyc3.digitaloceanspaces.com/simpleslides.dev/user-uploads/201/01KJDN7DZC2F3QQVE5CWWF9AS7.jpg) The Verge
+![amshot Logo](https://personal-k8s-main-space.nyc3.digitaloceanspaces.com/simpleslides.dev/user-uploads/214/01M16VKJS5X2KWCRQNN0E31GGH.webp)
 
-### Lightning Talks ⚡
+Our Talk
 
-- **Elizabeth McHughes** - "Engineering Elasticity: Virtualization in Cloud Computing"
-- **Farai Jordan** - "How to Get a Job When There are No Jobs"
-- **Kimberly Collins** - "Many-to-Many Database Relationships"
+### Claude Skills & Why They’re Pretty Cool 🤖
+
+Chloe Sheasby
 
 ### Chat in Slack!
 Join at [slack.techlahoma.org](https://slack.techlahoma.org)
@@ -44,4 +44,22 @@ Slack: **@mods** or **#ask-a-mod**
 * Likes and thoughtful comments welcome!
 * Please play videos to the end
 
-Now for our talks! 🎉
+### Upcoming Events
+
+**OK Coders Graduation**
+- 📅 Saturday, August 29 | 7:00 PM – 8:00 PM
+- 📍 The Verge OKC
+
+**2026 ThunderPlains Developer Conference**
+- 📅 Wednesday, Oct 21 | 8:00 AM – 5:00 PM
+- 📍 OKC Convention Center
+- *Free access to Innotech*
+
+**BSON Bash: Boots, Bots, & BSON**
+- 📅 Friday, Oct 23 | 5:00 PM – 8:00 PM
+- 📍 Will Rogers Theater
+
+**SheCodesOKC**
+- Save the Date: Thursday, September 17
+
+Now for our talk! 🎉
